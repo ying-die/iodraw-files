@@ -174,7 +174,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-34">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-35" value="从云平台拉源流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-34">
           <mxGeometry x="-0.3714" y="17" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
