@@ -262,7 +262,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-53" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1210" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-67" value="事件回调服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
