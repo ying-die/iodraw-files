@@ -325,7 +325,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-81" value="生成签名URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-79">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-81" value="生成签名URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-79">
           <mxGeometry x="-0.2608" y="11" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -339,7 +339,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-84" value="存储视频切片文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-82">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-84" value="存储视频切片文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-82">
           <mxGeometry x="-0.1674" y="-6" relative="1" as="geometry">
             <mxPoint x="20" y="25" as="offset" />
           </mxGeometry>
