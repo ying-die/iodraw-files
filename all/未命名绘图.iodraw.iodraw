@@ -86,8 +86,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-20" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
