@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="400" width="710" height="270" as="geometry" />
+          <mxGeometry x="30" y="400" width="715" height="310" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-9" value="Python业务服务&lt;br&gt;FastAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="120" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="40" y="600" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-15" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="550" width="90" height="90" as="geometry" />
+          <mxGeometry x="160" y="600" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
