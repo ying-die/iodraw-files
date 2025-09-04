@@ -255,7 +255,7 @@
           <mxGeometry x="1210" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-67" value="事件回调服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="450" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-68" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-38" target="n3BUzXxoO1vL4w0Dqlx9-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -268,7 +268,7 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-69" value="新切片事件通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-68">
           <mxGeometry x="0.2992" y="-11" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
