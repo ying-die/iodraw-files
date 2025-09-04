@@ -24,7 +24,7 @@
             <mxPoint x="410" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-5" value="RTSP/Onvif协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-4">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-5" value="RTSP/Onvif协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-4">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
