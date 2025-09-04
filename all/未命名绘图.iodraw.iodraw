@@ -325,9 +325,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-79">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-81" value="生成签名URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-79">
           <mxGeometry x="-0.2608" y="11" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-82" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="530" as="sourcePoint" />
+            <mxPoint x="1300" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="530" />
+              <mxPoint x="1250" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
