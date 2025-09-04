@@ -146,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-31" value="分发FLV/HLS流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-30">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-31" value="分发FLV/HLS流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#E6E6E6;labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-30">
           <mxGeometry x="0.1784" y="14" relative="1" as="geometry">
             <mxPoint x="8" y="-13" as="offset" />
           </mxGeometry>
