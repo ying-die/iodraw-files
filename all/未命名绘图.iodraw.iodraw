@@ -7,7 +7,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-1" target="n3BUzXxoO1vL4w0Dqlx9-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-8" value="提供RTMP/FLV源流API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-7">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-8" value="提供RTMP/FLV源流API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#E6E6E6;labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-7">
           <mxGeometry x="0.0571" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
