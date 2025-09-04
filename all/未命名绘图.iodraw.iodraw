@@ -240,7 +240,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-53" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1210" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-67" value="事件回调服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-67" value="事件回调服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="960" y="430" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-68" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.12;entryY=0.005;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-38" target="n3BUzXxoO1vL4w0Dqlx9-42">
@@ -271,7 +271,7 @@
             <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-72" value="OSS存储对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-72" value="OSS存储对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1470" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-43" target="n3BUzXxoO1vL4w0Dqlx9-53">
@@ -355,7 +355,7 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-85" value="开启云端录像功能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-83">
           <mxGeometry x="0.4894" y="-11" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
