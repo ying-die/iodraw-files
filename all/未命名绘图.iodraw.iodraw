@@ -204,7 +204,7 @@
           <mxGeometry x="1240" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-47" value="&lt;br&gt;主数据库&lt;br&gt;PostgreSQL/&lt;br&gt;MySQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="595" width="90" height="90" as="geometry" />
+          <mxGeometry x="1120" y="610" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-48" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="990" y="595" width="90" height="90" as="geometry" />
@@ -293,7 +293,7 @@
             <mxPoint x="1250" y="620" as="sourcePoint" />
             <mxPoint x="1300" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1280" y="620" />
+              <mxPoint x="1320" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
