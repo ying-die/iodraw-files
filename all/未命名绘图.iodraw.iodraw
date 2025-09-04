@@ -297,9 +297,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-75" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-74">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-75" value="返回签名播放URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-74">
           <mxGeometry x="-0.1512" y="25" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="620" as="sourcePoint" />
+            <mxPoint x="1300" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="620" />
+              <mxPoint x="1250" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
