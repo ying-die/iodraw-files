@@ -55,7 +55,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-14" value="&lt;br&gt;主数据库&lt;br&gt;PostgreSQL/&lt;br&gt;MySQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="550" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-15" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="550" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
