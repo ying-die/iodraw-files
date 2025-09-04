@@ -58,7 +58,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-15" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="600" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="n3BUzXxoO1vL4w0Dqlx9-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="430" as="sourcePoint" />
             <mxPoint x="410" y="380" as="targetPoint" />
