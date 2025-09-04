@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-20" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="n3BUzXxoO1vL4w0Dqlx9-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
