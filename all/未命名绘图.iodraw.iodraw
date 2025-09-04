@@ -207,7 +207,7 @@
           <mxGeometry x="962.5" y="585" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-48" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="540" width="90" height="90" as="geometry" />
+          <mxGeometry x="880" y="520" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-49" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-43" target="n3BUzXxoO1vL4w0Dqlx9-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -228,7 +228,7 @@
             <mxPoint x="1040" y="505" as="sourcePoint" />
             <mxPoint x="1025" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1220" y="530" />
+              <mxPoint x="925" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -241,7 +241,7 @@
           <mxGeometry x="1130" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-67" value="事件回调服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="450" width="130" height="50" as="geometry" />
+          <mxGeometry x="850" y="400" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-68" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-38" target="n3BUzXxoO1vL4w0Dqlx9-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
