@@ -252,7 +252,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-69" value="新切片事件通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-68">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-69" value="新切片事件通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-68">
           <mxGeometry x="0.2992" y="-11" relative="1" as="geometry">
             <mxPoint x="17" y="28" as="offset" />
           </mxGeometry>
@@ -266,7 +266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-71" value="缓存最新切片URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-70">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-71" value="缓存最新切片URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-70">
           <mxGeometry x="0.1655" y="15" relative="1" as="geometry">
             <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
