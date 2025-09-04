@@ -101,7 +101,7 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-23" value="返回播放URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-22">
           <mxGeometry x="-0.0379" y="4" relative="1" as="geometry">
-            <mxPoint x="11" y="-14" as="offset" />
+            <mxPoint x="21" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-20" target="n3BUzXxoO1vL4w0Dqlx9-9">
