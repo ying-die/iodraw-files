@@ -198,7 +198,7 @@
           <mxGeometry x="940" y="400" width="660" height="310" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-43" value="Python业务服务&lt;br&gt;FastAPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1052.5" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-46" value="云服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="410" width="60" height="30" as="geometry" />
@@ -262,7 +262,7 @@
             <mxPoint x="1250" y="530" as="sourcePoint" />
             <mxPoint x="1300" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1290" y="490" />
+              <mxPoint x="840" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
