@@ -285,7 +285,7 @@
             <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-72" value="OSS存储对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
