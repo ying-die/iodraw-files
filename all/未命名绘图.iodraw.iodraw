@@ -52,6 +52,9 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-13" value="云服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="410" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="580" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
