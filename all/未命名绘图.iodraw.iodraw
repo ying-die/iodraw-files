@@ -94,6 +94,7 @@
             <mxPoint x="360" y="630" as="sourcePoint" />
             <mxPoint x="410" y="580" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="270" y="610" />
               <mxPoint x="280" y="720" />
               <mxPoint x="360" y="730" />
             </Array>
@@ -101,7 +102,7 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-23" value="返回播放URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-22">
           <mxGeometry x="-0.0379" y="4" relative="1" as="geometry">
-            <mxPoint x="3" y="-14" as="offset" />
+            <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
