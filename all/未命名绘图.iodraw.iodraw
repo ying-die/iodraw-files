@@ -475,7 +475,7 @@
           <mxGeometry x="552.5" y="970" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-113" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1330" width="120" height="40" as="geometry" />
+          <mxGeometry x="370.63" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-115" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-93" target="n3BUzXxoO1vL4w0Dqlx9-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -501,7 +501,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-118" value="公网IP/端口映射" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="589.9987896139276" y="1249.9971882324007" as="geometry">
+          <mxGeometry x="589.9987896139276" y="1259.9971882324007" as="geometry">
             <mxPoint x="2" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
