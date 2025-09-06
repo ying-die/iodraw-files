@@ -797,7 +797,17 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-186" value="调用云平台API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-185">
           <mxGeometry x="0.1212" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-187" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="1250" as="sourcePoint" />
+            <mxPoint x="1350" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1350" y="1250" />
+              <mxPoint x="1300" y="1200" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
