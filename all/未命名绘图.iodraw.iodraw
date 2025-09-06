@@ -823,9 +823,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-190" value="请求播放地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-189">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-190" value="请求播放地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-189">
           <mxGeometry x="-0.2572" y="-19" relative="1" as="geometry">
             <mxPoint x="-9" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-191" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="1250" as="sourcePoint" />
+            <mxPoint x="1350" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1350" y="1250" />
+              <mxPoint x="1300" y="1200" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
