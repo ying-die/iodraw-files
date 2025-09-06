@@ -735,7 +735,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-164" value="云服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1510" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-165" value="FastAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1140" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
