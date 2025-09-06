@@ -523,7 +523,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-125" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="460.63" y="1390" width="72.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-126" value="PostgreSQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-126" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;PostgreSQL&lt;div&gt;/MySQL&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="550" y="1390" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
