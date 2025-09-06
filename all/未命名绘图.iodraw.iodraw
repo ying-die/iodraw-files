@@ -362,7 +362,7 @@
           <mxGeometry x="80" y="960" width="310" height="220" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-87" value="站点1 - 本地网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="970" width="105" height="30" as="geometry" />
+          <mxGeometry x="182.5" y="970" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-90" value="摄像头1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="1010" width="82.5" height="40" as="geometry" />
@@ -419,9 +419,6 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="960" width="310" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-101" value="站点n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="970" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-102" value="摄像头1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="1010" width="82.5" height="40" as="geometry" />
         </mxCell>
@@ -473,6 +470,9 @@
           <mxGeometry x="609.9966689280069" y="1103.1382638887892" as="geometry">
             <mxPoint x="75" y="-12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-112" value="站点1 - 本地网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="1020" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
