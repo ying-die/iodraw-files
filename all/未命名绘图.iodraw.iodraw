@@ -755,7 +755,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-171" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;PostgreSQL&lt;div&gt;/MySQL&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1210" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-175" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-171" target="n3BUzXxoO1vL4w0Dqlx9-166">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-175" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-179" target="n3BUzXxoO1vL4w0Dqlx9-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1420" y="1150" as="sourcePoint" />
             <mxPoint x="1470" y="1100" as="targetPoint" />
@@ -772,6 +772,16 @@
               <mxPoint x="1560" y="1180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-180" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-171" target="n3BUzXxoO1vL4w0Dqlx9-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1435" y="1210" as="sourcePoint" />
+            <mxPoint x="1480" y="1169" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-179" value="管理、鉴权" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
