@@ -520,11 +520,11 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-124" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-125" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="503.75" y="1390" width="60" height="60" as="geometry" />
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-125" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1390" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-126" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1310" width="60" height="60" as="geometry" />
+          <mxGeometry x="563.75" y="1390" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
