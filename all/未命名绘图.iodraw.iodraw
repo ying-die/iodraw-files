@@ -385,7 +385,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-97" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-94">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-97" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-94">
           <mxGeometry x="-0.0509" y="12" relative="1" as="geometry">
             <mxPoint x="3" as="offset" />
           </mxGeometry>
