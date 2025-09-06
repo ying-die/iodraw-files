@@ -657,7 +657,7 @@
           <mxGeometry x="1050" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-149" value="云NVR服务商" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1088.14" width="60" height="30" as="geometry" />
+          <mxGeometry x="1070" y="1092.21" width="80" height="21.86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
