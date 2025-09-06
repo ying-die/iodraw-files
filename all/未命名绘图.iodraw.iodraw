@@ -784,7 +784,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-184" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1281" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-185" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-148" target="n3BUzXxoO1vL4w0Dqlx9-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -812,6 +812,16 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-188" value="直接播放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-187">
           <mxGeometry x="-0.1167" y="-28" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-189" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="n3BUzXxoO1vL4w0Dqlx9-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="1250" as="sourcePoint" />
+            <mxPoint x="1350" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1350" y="1250" />
+              <mxPoint x="1300" y="1200" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
