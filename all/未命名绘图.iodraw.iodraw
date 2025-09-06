@@ -526,12 +526,11 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-126" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;PostgreSQL&lt;div&gt;/MySQL&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="1390" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-127" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-127" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-121" target="n3BUzXxoO1vL4w0Dqlx9-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1360" as="sourcePoint" />
             <mxPoint x="600" y="1310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="1360" />
               <mxPoint x="550" y="1310" />
             </Array>
           </mxGeometry>
