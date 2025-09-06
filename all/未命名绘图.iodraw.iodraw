@@ -833,8 +833,13 @@
             <mxPoint x="1300" y="1250" as="sourcePoint" />
             <mxPoint x="1350" y="1200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1300" y="1200" />
+              <mxPoint x="1540" y="1320" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-192" value="返回鉴权后的流地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-191">
+          <mxGeometry x="0.2135" y="-33" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
