@@ -515,7 +515,7 @@
           <mxGeometry x="230" y="1390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-122" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1390" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="1390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-124" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1480" width="120" height="40" as="geometry" />
