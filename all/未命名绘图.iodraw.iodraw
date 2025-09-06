@@ -412,6 +412,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-98" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="164.6266689280069" y="1103.1382638887892" as="geometry">
+            <mxPoint x="75" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
