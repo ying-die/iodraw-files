@@ -425,7 +425,7 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-103" value="摄像头2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="563.75" y="1010" width="82.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-104" value="摄像头3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-104" value="摄像头n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="660" y="1010" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-105" value="公网NVRn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
