@@ -411,7 +411,7 @@
             <mxPoint x="155" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-99" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-99" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="239.9966689280069" y="1103.1382638887892" as="geometry">
             <mxPoint x="75" y="-12" as="offset" />
           </mxGeometry>
@@ -440,7 +440,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-107" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-106">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-107" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-106">
           <mxGeometry x="-0.0509" y="12" relative="1" as="geometry">
             <mxPoint x="3" as="offset" />
           </mxGeometry>
