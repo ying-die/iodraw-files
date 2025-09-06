@@ -622,7 +622,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-142" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-140">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-142" value="视频流代理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-140">
           <mxGeometry x="0.4891" y="-9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
