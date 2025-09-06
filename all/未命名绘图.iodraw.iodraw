@@ -364,12 +364,6 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-87" value="站点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="970" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="960" width="310" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-89" value="站点n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="970" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-90" value="摄像头1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="1010" width="82.5" height="40" as="geometry" />
         </mxCell>
@@ -413,12 +407,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-98" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="164.6266689280069" y="1103.1382638887892" as="geometry">
-            <mxPoint x="80" y="-13" as="offset" />
+          <mxGeometry x="79.9966689280069" y="1119.998263888789" as="geometry">
+            <mxPoint x="155" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-99" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="239.9966689280069" y="1103.1382638887892" as="geometry">
+            <mxPoint x="75" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="970" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-101" value="站点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-102" value="摄像头1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="1020" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-103" value="摄像头2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203.75" y="1020" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-104" value="摄像头3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1020" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-105" value="公网NVR1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="1140" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-106" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-102" target="n3BUzXxoO1vL4w0Dqlx9-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1040" as="sourcePoint" />
+            <mxPoint x="610" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-107" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-106">
+          <mxGeometry x="-0.0509" y="12" relative="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-108" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-103" target="n3BUzXxoO1vL4w0Dqlx9-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1040" as="sourcePoint" />
+            <mxPoint x="610" y="990" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-109" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-104" target="n3BUzXxoO1vL4w0Dqlx9-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1040" as="sourcePoint" />
+            <mxPoint x="610" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-110" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="89.9966689280069" y="1129.998263888789" as="geometry">
+            <mxPoint x="155" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-111" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="249.9966689280069" y="1113.1382638887892" as="geometry">
             <mxPoint x="75" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
