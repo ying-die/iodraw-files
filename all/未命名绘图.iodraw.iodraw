@@ -736,7 +736,7 @@
           <mxGeometry x="1510" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-165" value="FastAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1165" width="80" height="40" as="geometry" />
+          <mxGeometry x="1610" y="1200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
