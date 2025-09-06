@@ -814,7 +814,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-189" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="n3BUzXxoO1vL4w0Dqlx9-166">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-189" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-184" target="n3BUzXxoO1vL4w0Dqlx9-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1340" y="1350" as="sourcePoint" />
             <mxPoint x="1350" y="1200" as="targetPoint" />
@@ -823,9 +823,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-190" value="请求播放地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-189">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-190" value="请求播放地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=default;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-189">
           <mxGeometry x="-0.2572" y="-19" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
