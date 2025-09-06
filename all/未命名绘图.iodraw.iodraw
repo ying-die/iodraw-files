@@ -752,9 +752,6 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-170" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1550" y="1210" width="72.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-171" target="n3BUzXxoO1vL4w0Dqlx9-166">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-171" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;PostgreSQL&lt;div&gt;/MySQL&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1210" width="70" height="70" as="geometry" />
         </mxCell>
