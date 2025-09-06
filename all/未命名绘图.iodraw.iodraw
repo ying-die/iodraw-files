@@ -461,7 +461,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-110" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-110" value="RTSP/Onvif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="449.9966689280069" y="1119.998263888789" as="geometry">
             <mxPoint x="155" y="-24" as="offset" />
           </mxGeometry>
