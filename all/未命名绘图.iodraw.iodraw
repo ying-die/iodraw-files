@@ -647,8 +647,11 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-145" value="摄像头2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1060" y="970" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-146" value="摄像头1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-146" value="摄像头n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1191" y="970" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
