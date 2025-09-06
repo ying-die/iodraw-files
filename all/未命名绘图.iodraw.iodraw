@@ -668,7 +668,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-153" value="公网注册/推流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-150">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-153" value="公网注册/推流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="n3BUzXxoO1vL4w0Dqlx9-150">
           <mxGeometry x="-0.1914" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
