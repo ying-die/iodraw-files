@@ -636,7 +636,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-143" value="视频流代理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-143" value="流地址获取/API请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="335.19182791965545" y="1344.7094963134011" as="geometry">
             <mxPoint x="154" y="-7" as="offset" />
           </mxGeometry>
