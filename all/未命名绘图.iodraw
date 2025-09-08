@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-53" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1181" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-72" value="OSS存储对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1470" y="535" width="120" height="60" as="geometry" />
@@ -196,7 +196,7 @@
             <mxPoint x="1250" y="620" as="sourcePoint" />
             <mxPoint x="1300" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1240" y="640" />
+              <mxPoint x="1130" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
