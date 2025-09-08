@@ -741,7 +741,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-9" value="生成签名URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="isvwUN7LzIZ8H9Rn4EDp-8">
+        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-9" value="视频存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="isvwUN7LzIZ8H9Rn4EDp-8">
           <mxGeometry x="-0.2608" y="11" relative="1" as="geometry">
             <mxPoint x="14" y="18" as="offset" />
           </mxGeometry>
