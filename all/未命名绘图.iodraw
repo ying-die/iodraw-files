@@ -162,7 +162,7 @@
             <mxPoint x="1290" y="420" as="sourcePoint" />
             <mxPoint x="1340" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1180" y="540" />
+              <mxPoint x="1030" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -176,7 +176,7 @@
             <mxPoint x="1040" y="505" as="sourcePoint" />
             <mxPoint x="1025" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1120" y="520" />
+              <mxPoint x="990" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -202,7 +202,7 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-75" value="返回签名播放URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-74" vertex="1" connectable="0">
           <mxGeometry x="-0.1512" y="25" relative="1" as="geometry">
-            <mxPoint x="-19" y="66" as="offset" />
+            <mxPoint x="-20" y="73" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-53" target="n3BUzXxoO1vL4w0Dqlx9-43" edge="1">
