@@ -200,9 +200,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-69" value="新切片事件通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#E6E6E6;labelBackgroundColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-68" vertex="1" connectable="0">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-69" value="视频数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#E6E6E6;labelBackgroundColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-68" vertex="1" connectable="0">
           <mxGeometry x="0.2992" y="-11" relative="1" as="geometry">
-            <mxPoint x="17" y="28" as="offset" />
+            <mxPoint x="21" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-70" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.213;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-67" target="n3BUzXxoO1vL4w0Dqlx9-48" edge="1">
