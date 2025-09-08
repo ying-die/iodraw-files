@@ -137,7 +137,7 @@
             <mxPoint x="1340" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-41" value="RTSP/Onvif协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-40" vertex="1" connectable="0">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-41" value="SD卡数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-40" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
