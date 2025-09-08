@@ -278,15 +278,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-82" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-72" target="n3BUzXxoO1vL4w0Dqlx9-38" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="530" as="sourcePoint" />
-            <mxPoint x="1300" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1370" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-83" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-38" target="n3BUzXxoO1vL4w0Dqlx9-72" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1250" y="530" as="sourcePoint" />
@@ -296,7 +287,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-85" value="开启云端录像功能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-83" vertex="1" connectable="0">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-85" value="视频数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-83" vertex="1" connectable="0">
           <mxGeometry x="0.4894" y="-11" relative="1" as="geometry">
             <mxPoint x="16" y="21" as="offset" />
           </mxGeometry>
