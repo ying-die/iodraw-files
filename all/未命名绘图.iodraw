@@ -121,13 +121,10 @@
             <mxPoint x="-1" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-27" value="流媒体服务器&lt;br&gt;ZLMediaKit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="550" y="560" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="n3BUzXxoO1vL4w0Dqlx9-27" edge="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="620" as="sourcePoint" />
-            <mxPoint x="490" y="570" as="targetPoint" />
+            <mxPoint x="550" y="577.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="460" y="520" />
             </Array>
@@ -138,9 +135,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-27" target="n3BUzXxoO1vL4w0Dqlx9-20" edge="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" target="n3BUzXxoO1vL4w0Dqlx9-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="620" as="sourcePoint" />
+            <mxPoint x="590" y="630" as="sourcePoint" />
             <mxPoint x="490" y="570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="670" />
@@ -152,10 +149,10 @@
             <mxPoint x="8" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-20" target="n3BUzXxoO1vL4w0Dqlx9-27" edge="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="620" as="sourcePoint" />
-            <mxPoint x="490" y="570" as="targetPoint" />
+            <mxPoint x="670" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="650" y="720" />
             </Array>
@@ -166,9 +163,9 @@
             <mxPoint x="44" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-27" target="n3BUzXxoO1vL4w0Dqlx9-1" edge="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="n3BUzXxoO1vL4w0Dqlx9-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="620" as="sourcePoint" />
+            <mxPoint x="630" y="560" as="sourcePoint" />
             <mxPoint x="490" y="570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="430" />
