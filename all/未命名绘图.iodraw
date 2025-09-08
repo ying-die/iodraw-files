@@ -189,7 +189,7 @@
           <mxGeometry x="1210" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-72" value="OSS存储对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1340" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-43" target="n3BUzXxoO1vL4w0Dqlx9-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -244,7 +244,7 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-81" value="生成签名URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-79" vertex="1" connectable="0">
           <mxGeometry x="-0.2608" y="11" relative="1" as="geometry">
-            <mxPoint x="9" y="4" as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-83" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-38" target="n3BUzXxoO1vL4w0Dqlx9-43" edge="1">
@@ -731,6 +731,20 @@
         </mxCell>
         <mxCell id="isvwUN7LzIZ8H9Rn4EDp-6" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1210" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="505" as="sourcePoint" />
+            <mxPoint x="1350" y="505" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-9" value="生成签名URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="isvwUN7LzIZ8H9Rn4EDp-8">
+          <mxGeometry x="-0.2608" y="11" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
