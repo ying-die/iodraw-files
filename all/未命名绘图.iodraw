@@ -188,21 +188,13 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-53" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1210" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-67" value="事件回调服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="960" y="430" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-70" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.213;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-67" target="n3BUzXxoO1vL4w0Dqlx9-48" edge="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-70" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.213;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="n3BUzXxoO1vL4w0Dqlx9-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="530" as="sourcePoint" />
+            <mxPoint x="1025" y="480" as="sourcePoint" />
             <mxPoint x="1300" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="990" y="560" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-71" value="缓存最新切片URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-70" vertex="1" connectable="0">
-          <mxGeometry x="0.1655" y="15" relative="1" as="geometry">
-            <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-72" value="OSS存储对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
