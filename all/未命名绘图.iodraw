@@ -33,10 +33,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="90" y="400" width="660" height="310" as="geometry" />
+          <mxGeometry x="210" y="400" width="410" height="310" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-9" value="Python业务服务&lt;br&gt;FastAPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-1" target="n3BUzXxoO1vL4w0Dqlx9-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,20 +53,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-13" value="云服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400.63" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="520.63" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-14" value="&lt;br&gt;主数据库&lt;br&gt;PostgreSQL/&lt;br&gt;MySQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="112.5" y="590" width="90" height="90" as="geometry" />
+          <mxGeometry x="232.5" y="590" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-15" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="210" y="590" width="90" height="90" as="geometry" />
+          <mxGeometry x="330" y="590" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="n3BUzXxoO1vL4w0Dqlx9-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="420" as="sourcePoint" />
-            <mxPoint x="490" y="370" as="targetPoint" />
+            <mxPoint x="560" y="420" as="sourcePoint" />
+            <mxPoint x="610" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="530" />
+              <mxPoint x="280" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,10 +77,10 @@
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="n3BUzXxoO1vL4w0Dqlx9-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="505" as="sourcePoint" />
-            <mxPoint x="175" y="600" as="targetPoint" />
+            <mxPoint x="310" y="505" as="sourcePoint" />
+            <mxPoint x="295" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="255" y="560" />
+              <mxPoint x="375" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
