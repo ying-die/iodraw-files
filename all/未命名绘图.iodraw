@@ -38,13 +38,10 @@
         <mxCell id="isvwUN7LzIZ8H9Rn4EDp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="isvwUN7LzIZ8H9Rn4EDp-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-4" value="视频存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isvwUN7LzIZ8H9Rn4EDp-3">
+        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-4" value="视频存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=default;" vertex="1" connectable="0" parent="isvwUN7LzIZ8H9Rn4EDp-3">
           <mxGeometry x="-0.0353" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="isvwUN7LzIZ8H9Rn4EDp-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-9" value="Python业务服务&lt;br&gt;FastAPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="450" width="120" height="60" as="geometry" />
