@@ -35,6 +35,14 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="400" width="410" height="310" as="geometry" />
         </mxCell>
+        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="isvwUN7LzIZ8H9Rn4EDp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isvwUN7LzIZ8H9Rn4EDp-3">
+          <mxGeometry x="-0.0353" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-9" value="Python业务服务&lt;br&gt;FastAPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -766,8 +774,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-2" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="620" width="90" height="90" as="geometry" />
+        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-2" value="&lt;br&gt;视频数据库&lt;br&gt;OSS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="435" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
