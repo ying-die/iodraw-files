@@ -33,10 +33,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="210" y="400" width="410" height="310" as="geometry" />
+          <mxGeometry x="360" y="410" width="410" height="310" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-9" value="Python业务服务&lt;br&gt;FastAPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="347.5" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-1" target="n3BUzXxoO1vL4w0Dqlx9-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +59,7 @@
           <mxGeometry x="232.5" y="590" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-15" value="&lt;br&gt;缓存数据库&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="330" y="590" width="90" height="90" as="geometry" />
+          <mxGeometry x="500" y="595" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-9" target="n3BUzXxoO1vL4w0Dqlx9-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
