@@ -32,11 +32,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="isvwUN7LzIZ8H9Rn4EDp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-6" target="n3BUzXxoO1vL4w0Dqlx9-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="90" y="400" width="660" height="310" as="geometry" />
+          <mxGeometry x="80" y="400" width="660" height="310" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-9" value="Python业务服务&lt;br&gt;FastAPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
@@ -122,34 +119,6 @@
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-26" value="请求播放地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#E6E6E6;labelBackgroundColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-24" vertex="1" connectable="0">
           <mxGeometry x="-0.3306" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" target="n3BUzXxoO1vL4w0Dqlx9-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="630" as="sourcePoint" />
-            <mxPoint x="490" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-31" value="分发FLV/HLS流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#E6E6E6;labelBackgroundColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-30" vertex="1" connectable="0">
-          <mxGeometry x="0.1784" y="14" relative="1" as="geometry">
-            <mxPoint x="8" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="620" as="sourcePoint" />
-            <mxPoint x="670" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-33" value="播放视频流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" parent="n3BUzXxoO1vL4w0Dqlx9-32" vertex="1" connectable="0">
-          <mxGeometry x="-0.1315" y="16" relative="1" as="geometry">
-            <mxPoint x="44" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-38" value="海康/大华云平台&lt;br&gt;ISC/华云" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
