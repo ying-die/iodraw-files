@@ -128,7 +128,7 @@
             <mxPoint x="-1" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-38" value="海康/大华云平台&lt;br&gt;ISC/华云" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-38" value="视频上传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="isvwUN7LzIZ8H9Rn4EDp-6" target="n3BUzXxoO1vL4w0Dqlx9-38" edge="1">
@@ -775,7 +775,7 @@
           <mxGeometry x="525" y="435" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="isvwUN7LzIZ8H9Rn4EDp-6" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
