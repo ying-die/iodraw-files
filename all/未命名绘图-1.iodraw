@@ -628,13 +628,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gk4E3uTQrAelbZevW77R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1060" width="210" height="140" as="geometry" />
+          <mxGeometry x="160" y="1050" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Gk4E3uTQrAelbZevW77R-5" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="1110" width="82.5" height="40" as="geometry" />
+          <mxGeometry x="177.5" y="1100" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gk4E3uTQrAelbZevW77R-6" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="594.75" y="1110" width="82.5" height="40" as="geometry" />
+          <mxGeometry x="274.75" y="1100" width="82.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
