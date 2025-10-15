@@ -261,15 +261,6 @@
             <mxPoint x="42" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="80" y="960" width="310" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-90" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="97.5" y="1010" width="82.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="n3BUzXxoO1vL4w0Dqlx9-91" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="193.75" y="1010" width="82.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="470" y="1050" width="210" height="140" as="geometry" />
         </mxCell>
@@ -636,23 +627,14 @@
             <mxPoint x="14" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gk4E3uTQrAelbZevW77R-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-90" target="n3BUzXxoO1vL4w0Dqlx9-113">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1130" as="sourcePoint" />
-            <mxPoint x="730" y="1080" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="1200" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Gk4E3uTQrAelbZevW77R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1060" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Gk4E3uTQrAelbZevW77R-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n3BUzXxoO1vL4w0Dqlx9-91" target="n3BUzXxoO1vL4w0Dqlx9-113">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1130" as="sourcePoint" />
-            <mxPoint x="730" y="1080" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="1160" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Gk4E3uTQrAelbZevW77R-5" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="1110" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk4E3uTQrAelbZevW77R-6" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="594.75" y="1110" width="82.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
