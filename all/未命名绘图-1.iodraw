@@ -636,12 +636,11 @@
         <mxCell id="Gk4E3uTQrAelbZevW77R-6" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="274.75" y="1100" width="82.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gk4E3uTQrAelbZevW77R-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="n3BUzXxoO1vL4w0Dqlx9-113">
+        <mxCell id="Gk4E3uTQrAelbZevW77R-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gk4E3uTQrAelbZevW77R-5" target="n3BUzXxoO1vL4w0Dqlx9-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="1330" as="sourcePoint" />
             <mxPoint x="730" y="1280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="1310" />
               <mxPoint x="680" y="1280" />
             </Array>
           </mxGeometry>
