@@ -262,13 +262,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1050" width="210" height="140" as="geometry" />
+          <mxGeometry x="460.63" y="1050" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-102" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="487.5" y="1100" width="82.5" height="40" as="geometry" />
+          <mxGeometry x="478.13" y="1100" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-103" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="584.75" y="1100" width="82.5" height="40" as="geometry" />
+          <mxGeometry x="575.38" y="1100" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3BUzXxoO1vL4w0Dqlx9-113" value="公网IP+多NVR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="1280" width="120" height="40" as="geometry" />
@@ -635,6 +635,16 @@
         </mxCell>
         <mxCell id="Gk4E3uTQrAelbZevW77R-6" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="274.75" y="1100" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk4E3uTQrAelbZevW77R-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1330" as="sourcePoint" />
+            <mxPoint x="730" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="1330" />
+              <mxPoint x="680" y="1280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
