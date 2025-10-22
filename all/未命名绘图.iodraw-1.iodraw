@@ -81,8 +81,8 @@
         <mxCell id="6qwtHtV96ris9o1uL_Xu-22" value="无人机近距离二次勘察" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="104.38" y="480" width="131.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="360" width="80" height="80" as="geometry" />
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-24" value="火情确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="128.75" y="530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
