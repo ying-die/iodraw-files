@@ -107,13 +107,12 @@
         <mxCell id="6qwtHtV96ris9o1uL_Xu-32" value="记录误报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="555" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6qwtHtV96ris9o1uL_Xu-24" target="6qwtHtV96ris9o1uL_Xu-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="490" as="sourcePoint" />
             <mxPoint x="180" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="490" />
-              <mxPoint x="130" y="440" />
+              <mxPoint y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
