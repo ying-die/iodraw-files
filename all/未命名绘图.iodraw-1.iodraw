@@ -21,8 +21,8 @@
         <mxCell id="6qwtHtV96ris9o1uL_Xu-3" value="AI图像识别系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-6" value="疑似火情" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
