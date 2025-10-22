@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-30" value="是，触发增强方案流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="6qwtHtV96ris9o1uL_Xu-29">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-30" value="是，触发增强方案流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="6qwtHtV96ris9o1uL_Xu-29">
           <mxGeometry x="-0.1126" y="17" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="6qwtHtV96ris9o1uL_Xu-37" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6qwtHtV96ris9o1uL_Xu-36">
           <mxGeometry x="0.1451" y="35" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
