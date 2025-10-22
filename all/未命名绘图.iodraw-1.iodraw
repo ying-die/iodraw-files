@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-11" value="识别烟雾/火焰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=default;" vertex="1" connectable="0" parent="6qwtHtV96ris9o1uL_Xu-7">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-11" value="识别烟雾/火焰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;labelBorderColor=#E6E6E6;" vertex="1" connectable="0" parent="6qwtHtV96ris9o1uL_Xu-7">
           <mxGeometry x="-0.2253" y="1" relative="1" as="geometry">
             <mxPoint x="-6" y="3" as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6qwtHtV96ris9o1uL_Xu-12">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="6qwtHtV96ris9o1uL_Xu-12">
           <mxGeometry x="0.2253" y="1" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
