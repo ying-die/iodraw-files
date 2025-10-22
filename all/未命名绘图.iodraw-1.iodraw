@@ -52,8 +52,8 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-14" value="光伏区摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="50" width="100" height="40" as="geometry" />
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-14" value="上报中央监管平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
