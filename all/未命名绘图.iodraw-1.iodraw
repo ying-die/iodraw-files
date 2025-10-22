@@ -104,8 +104,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-32" value="记录误报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="555" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
