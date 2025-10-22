@@ -290,8 +290,8 @@
         <mxCell id="6qwtHtV96ris9o1uL_Xu-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://5b0988e595225.cdn.sohucs.com/images/20180914/51a5ac15d30c4345bd6b8f83b8b77173.jpeg;" vertex="1" parent="1">
           <mxGeometry x="70" y="640" width="280" height="157.63" as="geometry" />
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-74" value="AI图像识别系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="546.46" y="810" width="110" height="30" as="geometry" />
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-74" value="中央监管平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="551.46" y="810" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
