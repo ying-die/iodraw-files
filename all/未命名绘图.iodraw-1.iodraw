@@ -24,11 +24,13 @@
         <mxCell id="6qwtHtV96ris9o1uL_Xu-6" value="疑似火情" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6qwtHtV96ris9o1uL_Xu-6">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6qwtHtV96ris9o1uL_Xu-3" target="6qwtHtV96ris9o1uL_Xu-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="130" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
