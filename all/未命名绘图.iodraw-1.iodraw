@@ -70,10 +70,10 @@
         <mxCell id="6qwtHtV96ris9o1uL_Xu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6qwtHtV96ris9o1uL_Xu-22" target="6qwtHtV96ris9o1uL_Xu-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-22" value="无人机近距离二次勘察" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-22" value="无人机近距离二次勘察" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-13.120000000000005" y="400" width="131.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-24" value="火情确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-24" value="火情确认" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="11.25" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6qwtHtV96ris9o1uL_Xu-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6qwtHtV96ris9o1uL_Xu-6" target="6qwtHtV96ris9o1uL_Xu-14">
@@ -104,7 +104,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qwtHtV96ris9o1uL_Xu-32" value="记录误报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6qwtHtV96ris9o1uL_Xu-32" value="记录误报" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-50" y="555" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6qwtHtV96ris9o1uL_Xu-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6qwtHtV96ris9o1uL_Xu-24" target="6qwtHtV96ris9o1uL_Xu-32">
