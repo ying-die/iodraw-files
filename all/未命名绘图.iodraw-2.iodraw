@@ -101,13 +101,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-26" value="登高作业监控系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2jzLzC1B1fhVztQCJc8_-28" target="2jzLzC1B1fhVztQCJc8_-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-28" value="视频、图像获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2jzLzC1B1fhVztQCJc8_-34" target="2jzLzC1B1fhVztQCJc8_-39">
           <mxGeometry relative="1" as="geometry" />
@@ -123,9 +123,9 @@
         <mxCell id="2jzLzC1B1fhVztQCJc8_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2jzLzC1B1fhVztQCJc8_-34" target="2jzLzC1B1fhVztQCJc8_-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="455" />
-              <mxPoint x="300" y="720" />
-              <mxPoint x="410" y="720" />
+              <mxPoint x="1010" y="425" />
+              <mxPoint x="1010" y="690" />
+              <mxPoint x="1120" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-34" value="判断地面线与人员位置关系" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="410" width="180" height="90" as="geometry" />
+          <mxGeometry x="1030" y="380" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2jzLzC1B1fhVztQCJc8_-39" target="2jzLzC1B1fhVztQCJc8_-46">
           <mxGeometry relative="1" as="geometry" />
@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-39" value="安全带识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="550" width="125" height="50" as="geometry" />
+          <mxGeometry x="1057.5" y="520" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2jzLzC1B1fhVztQCJc8_-44" target="2jzLzC1B1fhVztQCJc8_-47">
           <mxGeometry relative="1" as="geometry" />
@@ -167,9 +167,9 @@
         <mxCell id="2jzLzC1B1fhVztQCJc8_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2jzLzC1B1fhVztQCJc8_-44" target="2jzLzC1B1fhVztQCJc8_-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="695" y="575" />
-              <mxPoint x="695" y="720" />
-              <mxPoint x="410" y="720" />
+              <mxPoint x="1405" y="545" />
+              <mxPoint x="1405" y="690" />
+              <mxPoint x="1120" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -179,16 +179,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-44" value="识别扶梯人员" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="550" width="125" height="50" as="geometry" />
+          <mxGeometry x="1260" y="520" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-45" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="750" width="80" height="40" as="geometry" />
+          <mxGeometry x="1080" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-46" value="一类告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="1160" y="620" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-47" value="二类告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567.5" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="1277.5" y="620" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
