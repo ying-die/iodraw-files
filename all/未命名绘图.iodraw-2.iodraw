@@ -31,8 +31,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="445" />
-              <mxPoint x="290" y="690" />
-              <mxPoint x="400" y="690" />
+              <mxPoint x="290" y="710" />
+              <mxPoint x="400" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -75,9 +75,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="685" y="565" />
-              <mxPoint x="685" y="690" />
-              <mxPoint x="400" y="690" />
+              <mxPoint x="685" y="710" />
+              <mxPoint x="400" y="710" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2jzLzC1B1fhVztQCJc8_-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2jzLzC1B1fhVztQCJc8_-23">
+          <mxGeometry x="-0.7292" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-5" value="识别扶梯人员" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
