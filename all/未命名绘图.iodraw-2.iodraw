@@ -14,7 +14,10 @@
           <mxGeometry x="310" y="400" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-4" value="安全带识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="550" width="125" height="50" as="geometry" />
+          <mxGeometry x="337.5" y="540" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2jzLzC1B1fhVztQCJc8_-5" value="安全带识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="550" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
