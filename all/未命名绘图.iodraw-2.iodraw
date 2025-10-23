@@ -35,7 +35,7 @@
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-16" value="未佩戴" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2jzLzC1B1fhVztQCJc8_-15">
           <mxGeometry x="0.0564" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-1" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-4" value="安全带识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
