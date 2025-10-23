@@ -38,7 +38,7 @@
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-22" value="未包含登高人员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2jzLzC1B1fhVztQCJc8_-21">
           <mxGeometry x="-0.6296" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-3" value="判断地面线与人员位置关系" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
