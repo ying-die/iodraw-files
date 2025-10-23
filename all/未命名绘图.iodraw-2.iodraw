@@ -30,6 +30,9 @@
         <mxCell id="2jzLzC1B1fhVztQCJc8_-3" value="判断地面线与人员位置关系" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="180" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="2jzLzC1B1fhVztQCJc8_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2jzLzC1B1fhVztQCJc8_-4" target="2jzLzC1B1fhVztQCJc8_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-4" value="安全带识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="540" width="125" height="50" as="geometry" />
         </mxCell>
@@ -43,7 +46,7 @@
           <mxGeometry x="340" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-7" value="一类告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="640" width="90" height="40" as="geometry" />
+          <mxGeometry x="440" y="640" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jzLzC1B1fhVztQCJc8_-8" value="二类告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="640" width="90" height="40" as="geometry" />
